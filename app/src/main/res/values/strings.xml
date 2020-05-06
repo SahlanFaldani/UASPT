@@ -3,4 +3,6 @@
     <string name="Hello">Hello...</string>
     <string name="tips">Tips Hidup Sehat</string>
     <string name="gejalagejala">Gejala-gejala Penyakit</string>
+    <string name="patientlist">Patient List</string>
+    <string name="patientdata">Patient Data</string>
 </resources>
