@@ -1,0 +1,2 @@
+rootProject.name='UASPT'
+include ':app'
