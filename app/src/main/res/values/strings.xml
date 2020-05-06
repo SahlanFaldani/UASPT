@@ -5,4 +5,7 @@
     <string name="gejalagejala">Gejala-gejala Penyakit</string>
     <string name="patientlist">Patient List</string>
     <string name="patientdata">Patient Data</string>
+    <string name="input">Input Your Data</string>
+    <string name="hospital">Hospital List</string>
+    <string name="feedback">Feedback</string>
 </resources>
